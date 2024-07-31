@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cruckerawn.github.io/sitemap.html.gz
+Sitemap: https://cruckerawn.github.io/app/sitemap.html.gz
+Sitemap: https://cruckerawn.github.io/assets/sitemap.html.gz
+Sitemap: https://cruckerawn.github.io/css/sitemap.html.gz
+Sitemap: https://cruckerawn.github.io/includes/sitemap.html.gz
+Sitemap: https://cruckerawn.github.io/item/sitemap.html.gz
+Sitemap: https://cruckerawn.github.io/src/sitemap.html.gz
